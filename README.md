@@ -39,7 +39,61 @@ NIM: 09011182328005
    ![cal](https://github.com/user-attachments/assets/4697c519-1ad7-4af3-8a6d-99268b2299a6)  
 12. cal (bulan) (tahun)  
     Digunakan untuk melihat kalender bulan dan tahun yang spesifik  
-    ![cal specifics](https://github.com/user-attachments/assets/d3ab9386-6ea4-40e3-a2a1-66824da73f75)
+    ![cal specifics](https://github.com/user-attachments/assets/d3ab9386-6ea4-40e3-a2a1-66824da73f75)  
 13. netstat  
     Digunakan untuk melihat status koneksi internet yang terhubung  
-    ![netstat](https://github.com/user-attachments/assets/c6f9d026-c9b3-4cde-8623-44891423e731)
+    ![netstat](https://github.com/user-attachments/assets/c6f9d026-c9b3-4cde-8623-44891423e731)  
+14. ls /(nama direktori)  
+    Digunakan untuk melihat daftar file dalam suatu direktori  
+    ![ls nama direktori](https://github.com/user-attachments/assets/99bcc699-9ac6-416c-91bb-79b2ee6c0c74)
+15. touch (nama file)  
+    Digunakan untuk membuat sebuah file  
+    ![{0848DF8F-3CF4-4427-89CB-1D583F648566}](https://github.com/user-attachments/assets/7a9d5a62-f2f4-4dd9-a471-af8349ab35ed)
+16. mv (nama file) (nama yang ingin diganti)  
+    Digunakan untuk mengganti nama file  
+    ![{A828962E-7685-4F9F-B6E2-68A592B183FD}](https://github.com/user-attachments/assets/9c0ba1c7-2a05-425a-8bda-901e9939224b)  
+17. mv (nama file) (direktori yang ingin dituju)  
+    Digunakan untuk memindahkan suatu file ke direktori tertentu  
+    ![{33E5933A-E7B8-4C30-8864-C9C2ACF97268}](https://github.com/user-attachments/assets/70e362b4-e495-481e-88d0-dd2ec938c4b7)  
+18. rm (nama file)  
+    Digunakan untuk menghapus suatu file  
+    ![{309561CA-9778-4689-98A5-E22E58DDE73B}](https://github.com/user-attachments/assets/ed54efec-07a9-4976-aee4-1022a85cadf0)  
+19. grep (kata yang dicari) (nama file)  
+    Digunakan untuk mencari kata di suatu direktori, jika terdapat kata tersebut, maka akan ditunjukan diterminal, jika tidak maka tidak terjadi apa-apa  
+    ![{13C29633-F1F4-4643-BE6F-A2F132272CE6}](https://github.com/user-attachments/assets/ab5a29d2-be5c-4321-9495-e47e67605490)  
+20. mkdir (nama folder)  
+    Digunakan untuk membuat folder  
+    ![mkdir](https://github.com/user-attachments/assets/6d191d07-873d-4d11-a7e2-337ef1ba68fe)  
+    ![mkdir2](https://github.com/user-attachments/assets/5c66b8b4-d5ed-47b8-b5c8-16368e16a6b0)  
+21. cat (nama file)  
+    Digunakan untuk melihat isi file  
+    ![cat](https://github.com/user-attachments/assets/874357be-a581-4dec-87bc-6fe2eaa8c9ff)  
+22. pwd  
+    Digunakan untuk melihat lokasi direktori yang sedang digunakan  
+    ![pwd](https://github.com/user-attachments/assets/7d7042bc-ff63-44f3-a68d-be8b1570450b)
+23. head (nama file)  
+    Digunakan untuk menampilkan kata depan pada suatu file dari bagian awal sebanyak 10 baris  
+    ![head](https://github.com/user-attachments/assets/157e7069-e7cd-4eab-bf64-944d083ac516)
+24. tail (nama file)  
+    Digunakan untuk menampilkan kata depan pada suatu file dari bagian belakang sebanyak 10 baris  
+    ![tail](https://github.com/user-attachments/assets/05c8a36a-a053-4ece-a1de-3791eea47171)  
+25. echo (kata/kalimat)  
+    Digunakan untuk menampilkan kata/kalimat yang diketikan di terminal  
+    ![echo kata](https://github.com/user-attachments/assets/1ee6e4c2-cd25-48a9-a6fb-f3d9987f77b8)  
+26. uname -a  
+    Digunakan untuk menampilkan seluruh informasi di sistem yang digunakan  
+    ![uname -a](https://github.com/user-attachments/assets/dd668ee8-2e26-4f46-8009-9d13b0cc301b)  
+27. ps aux  
+    Digunakan untuk menampilkan seluruh proses yang sedang berjalan di ubuntu  
+    ![image](https://github.com/user-attachments/assets/0bac4201-17b4-4196-81d2-84db8543862d)  
+    ![image](https://github.com/user-attachments/assets/952556a7-4f9d-4a90-b5c3-3920bc374091)  
+28. whatis (command line)  
+    Digunakan untuk memgetahui apa kegunaan suatu command line  
+    ![whatis](https://github.com/user-attachments/assets/2aaf6d3a-6026-4ca0-9801-40073e5b19fb)  
+29. whoami  
+    Digunakan untuk memberitau siapa username yang sedang digunakan  
+    ![whoami](https://github.com/user-attachments/assets/e868f234-d1cb-41c2-864a-54bce94f2c69)  
+    
+
+
+    
