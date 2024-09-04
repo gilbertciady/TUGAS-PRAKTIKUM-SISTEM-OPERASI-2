@@ -76,24 +76,50 @@ NIM: 09011182328005
     ![head](https://github.com/user-attachments/assets/157e7069-e7cd-4eab-bf64-944d083ac516)
 24. tail (nama file)  
     Digunakan untuk menampilkan kata depan pada suatu file dari bagian belakang sebanyak 10 baris  
-    ![tail](https://github.com/user-attachments/assets/05c8a36a-a053-4ece-a1de-3791eea47171)  
-25. echo (kata/kalimat)  
+    ![tail](https://github.com/user-attachments/assets/05c8a36a-a053-4ece-a1de-3791eea47171)
+25. diff (nama file 1) (nama file 2)  
+    Digunakan untuk melihat perbedaan isi dari kedua file  
+    ![diff1](https://github.com/user-attachments/assets/daa34b85-c435-4c3c-9cb0-cf089b6651bb)  
+    ![diff2](https://github.com/user-attachments/assets/fe11fa24-e14c-457f-931a-a24a893e3b82)  
+26. cmp (nama file 1) (nama file 2)  
+    Digunakan untuk membandingkan kedua file, jika terdapat perbedaan akan menunjukan byte dan di line ke berapa perbedaannya  
+    ![cmp](https://github.com/user-attachments/assets/98f02070-a44b-4402-8e0f-46ceae23caa2)  
+27. comm (nama file 1) (nama file 2)  
+    Digunakan untuk menunjukan isi yang hanya ada di file 1, isi yang hanya ada di file 2, dan isi yang ada di kedua file tersebut  
+    ![comm1](https://github.com/user-attachments/assets/c8bf56f6-14ec-43a0-84ff-1e8efd51a6f0)  
+    ![comm2](https://github.com/user-attachments/assets/d7424be4-e81f-408d-93df-820559cb7b85)
+28. sort (nama file)  
+    Digunakan untuk mengurutkan file berdasarkan alfabet (a ke z)  
+    ![{56C9743B-8D6E-4C4E-8F81-D19A14727E28}](https://github.com/user-attachments/assets/b7846bdd-c165-495a-a9d0-4c9ac81c8389)  
+    ![sort az](https://github.com/user-attachments/assets/22b7db2d-9d08-4e5a-897b-35b517e3ab56)  
+29. sort -r (nama file)  
+    Digunakan untuk mengurutkan file berdasarkan alfabet secara terbalik (z ke a)  
+    ![{56C9743B-8D6E-4C4E-8F81-D19A14727E28}](https://github.com/user-attachments/assets/a5b73c67-097f-4e99-8e9f-205036982f6a)  
+    ![sort za](https://github.com/user-attachments/assets/234d88bb-3038-4198-8a45-9fd80d932601)
+30. sort -u (nama file)  
+    Digunakan untuk mengurutkan file berdasarkan alfabet dan menghapus isi yang duplikat  
+    ![{56C9743B-8D6E-4C4E-8F81-D19A14727E28}](https://github.com/user-attachments/assets/b7846bdd-c165-495a-a9d0-4c9ac81c8389)  
+    ![sort -u](https://github.com/user-attachments/assets/4b776758-f7c5-45c2-8a6e-7d7656b07a2a)  
+31. sort -n (nama file)  
+    Digunakan untuk mengurutkan file berdasarkan angka / numerik  
+    ![(iG)urutan angka](https://github.com/user-attachments/assets/c4ff78f5-4f06-4a63-8022-9031f0a56bb7)  
+    ![sort -n](https://github.com/user-attachments/assets/9e8c7f60-6601-48a6-8657-82c9be791e15)  
+32. echo (kata/kalimat)  
     Digunakan untuk menampilkan kata/kalimat yang diketikan di terminal  
     ![echo kata](https://github.com/user-attachments/assets/1ee6e4c2-cd25-48a9-a6fb-f3d9987f77b8)  
-26. uname -a  
+33. uname -a  
     Digunakan untuk menampilkan seluruh informasi di sistem yang digunakan  
     ![uname -a](https://github.com/user-attachments/assets/dd668ee8-2e26-4f46-8009-9d13b0cc301b)  
-27. ps aux  
+34. ps aux  
     Digunakan untuk menampilkan seluruh proses yang sedang berjalan di ubuntu  
     ![image](https://github.com/user-attachments/assets/0bac4201-17b4-4196-81d2-84db8543862d)  
     ![image](https://github.com/user-attachments/assets/952556a7-4f9d-4a90-b5c3-3920bc374091)  
-28. whatis (command line)  
+35. whatis (command line)  
     Digunakan untuk memgetahui apa kegunaan suatu command line  
     ![whatis](https://github.com/user-attachments/assets/2aaf6d3a-6026-4ca0-9801-40073e5b19fb)  
-29. whoami  
+36. whoami  
     Digunakan untuk memberitau siapa username yang sedang digunakan  
     ![whoami](https://github.com/user-attachments/assets/e868f234-d1cb-41c2-864a-54bce94f2c69)  
-    
 
 
     
